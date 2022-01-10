@@ -7,6 +7,12 @@ USaul is a programming language designed to test the limits of parsing expressio
 Overall, it's an experimental and pretty useless language and should only be used if you want a more complicated version of math.
 
 # Example
+First, install the "usaul" NPM module for it to work.
+To do this:
+```
+npm install -g usaul
+```
+Now you can run these examples.
 ## main.usl
 ```
 x: 10 + 11;
